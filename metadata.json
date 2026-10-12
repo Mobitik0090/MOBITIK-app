@@ -1,0 +1,6 @@
+{
+  "name": "MOBITIK",
+  "description": "Professional mobile cryptocurrency-style mining application featuring 12-hour mining sessions, wallet, swaps, referrals, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
